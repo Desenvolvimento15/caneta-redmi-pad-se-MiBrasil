@@ -66,6 +66,17 @@ max-width: 100%;
 .boxcolor-roxo{background-color: #B9ADC7;}
 
 
+@font-face {
+    font-family: 'Xiaomi Brand';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('https://i02.appmifile.com/i18n/fonts/Brand/Brand.woff2') format('woff2');
+  }
+  
+  
+
+
 @import url("https://i02.appmifile.com/i18n/fonts/CamphorPro/vf/index.css");
 @import url("https://i02.appmifile.com/i18n/fonts/CamphorPro/woff2/index.css");
 
@@ -75,7 +86,7 @@ max-width: 100%;
 text-align: center;
 font-size: 3rem;
 font-weight: 600;
-font-family: "Camphor Pro", sans-serif;
+font-family: 'Xiaomi Brand';
 position: relative;
 overflow-wrap: break-word;
 }
